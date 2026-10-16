@@ -14,12 +14,9 @@ app.innerHTML = `
 <ol>
 
 <li>
-Menjelaskan konsep fungsi melalui hubungan input, aturan, dan output.
+Menjelaskan konsep fungsi melalui hubungan domain, fungsi, dan range.
 </li>
 
-<li>
-Mengidentifikasi domain, kodomain, dan range suatu fungsi.
-</li>
 
 <li>
 Menyajikan fungsi dalam berbagai bentuk representasi 
@@ -27,7 +24,7 @@ Menyajikan fungsi dalam berbagai bentuk representasi
 </li>
 
 <li>
-Menjelaskan hubungan nilai input-output melalui grafik fungsi.
+Menjelaskan hubungan nilai domain-range melalui grafik fungsi.
 </li>
 
 <li>
